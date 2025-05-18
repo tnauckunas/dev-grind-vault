@@ -40,7 +40,7 @@ Every folder here is either a study series, a deep dive into a topic, or a stack
 ### Building Up for:
 
 * Repo 4: Clearance Scanner CLI (Python scraping tool)
-* ⚙Repo 5–6: CI/CD pipelines, cloud automation, basic security tooling
+* Repo 5–6: CI/CD pipelines, cloud automation, basic security tooling
 
 ---
 
