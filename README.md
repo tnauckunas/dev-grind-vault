@@ -52,7 +52,7 @@ Active grind, breakthroughs, and daily updates can be found in [`logs/learning_l
 
 ## Why This Repo Exists
 
-Because most courses don’t work unless you extract what *you* need from them. This vault keeps everything sharp, documented, and connected to what I’m building — not just what I’m watching.
+Because most courses don’t work unless you extract what *you* need from them. This vault keeps everything sharp, documented, and connected to what I’m building not just what I’m watching.
 
 **This isn’t a course tracker. This is a personal bootcamp.**
 
