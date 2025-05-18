@@ -1,8 +1,9 @@
 # Learning Log
 
 <details>  
-  
-## Date: 5/18/2025 
+
+<summary> Archive: May 18, 2025</summary> 
+
 ## Theme: First Project Breakthrough
 
 ### What I Built:
