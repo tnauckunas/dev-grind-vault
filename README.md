@@ -31,7 +31,7 @@ Every folder here is either a study series, a deep dive into a topic, or a stack
 
 ## Live Study Tracks
 
-### 100 Days of Python (Udemy Bootcamp)
+### Python Bootcamp (Udemy Bootcamp)
 
 * Not following daily order. Extracting key skills to complete live projects under deadline
 * Extracting CLI patterns, parsing logic, and modular Python habits
