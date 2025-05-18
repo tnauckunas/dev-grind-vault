@@ -27,12 +27,12 @@ This is my first official project combining **numerology**, **astrology**, and *
 
 ---
 
-## Sample Output
-Enter your full name: Tomas Nauckunas
-Enter your date of birth (dd/mm/yyyy): 06/11/1994
+## Sample Output  
+Enter your full name: Tomas Nauckunas  
+Enter your date of birth (dd/mm/yyyy): 06/11/1994  
 
-Hello, Tomas Nauckunas, you are 30 years old.
-Your name has 14 characters.
-Your full name numerology is: 5
-Your Zodiac sign is: Scorpio
-Your Chinese Zodiac sign is: Yang Wood Dog
+Hello, Tomas Nauckunas, you are 30 years old.  
+Your name has 14 characters.  
+Your full name numerology is: 5  
+Your Zodiac sign is: Scorpio  
+Your Chinese Zodiac sign is: Yang Wood Dog  
