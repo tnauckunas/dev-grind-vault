@@ -1,5 +1,3 @@
-# Learning Log
-
 <details>  
 
 <summary> Archive: May 18, 2025</summary> 
