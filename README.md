@@ -13,6 +13,14 @@ Every folder here is either a study series, a deep dive into a topic, or a stack
 | Area        | Purpose                                           |
 | ----------- | ------------------------------------------------- |
 | `python/`   | Bootcamps, scripting experiments, CLI mastery     |
+| `logs/`     | Daily reflections, breakthroughs, blockers        |
+
+
+## Planned Structure
+
+| Area        | Purpose                                           |
+| ----------- | ------------------------------------------------- |
+| `python/`   | Bootcamps, scripting experiments, CLI mastery     |
 | `linux/`    | Bash scripting, terminal navigation, cheat sheets |
 | `git/`      | Git flow practice, common commands, merge testing |
 | `cloud/`    | AWS basics, Terraform, IaC testing playground     |
