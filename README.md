@@ -35,7 +35,7 @@ Every folder here is either a study series, a deep dive into a topic, or a stack
 
 * Not following daily order. Extracting key skills to complete live projects under deadline
 * Extracting CLI patterns, parsing logic, and modular Python habits
-* Logging insights, shortcuts, and cleanups in `python/100-days-bootcamp`
+* Logging insights, shortcuts, and cleanups
 
 ### Building Up for:
 
