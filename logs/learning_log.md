@@ -30,6 +30,8 @@
 
 [See my 1st project](https://github.com/tnauckunas/dev-grind-vault/tree/ecfaeddbe15c33816447069367aead66520a5df0/python/bootcamp-100-projects/project-1-numerology-zodiac-analyzer)
 
+<details>  
+  
 ---
 
 <details>  
