@@ -28,7 +28,7 @@
 - Markdown structure for project documentation
 - Felt what it's like to finish and polish a complete project
 
-[See my 1st project](https://github.com/tnauckunas/dev-grind-vault/tree/ecfaeddbe15c33816447069367aead66520a5df0/python/bootcamp-100-projects/project-1-numerology-zodiac-analyzer)
+[See my 1st project](https://github.com/tnauckunas/dev-grind-vault/tree/2889560930824d2d38ecc1efcd8908b467c988a1/python/bootcamp-100-projects/project-1-zodiac-birth-analyzer-custom)
 
 </details>
 
