@@ -40,7 +40,14 @@
 
 ## Breakthrough:
 
-- I no longer try to memorize code. I strategize solutions, research modular code snippets, and build end-to-end logic that solves real problems. I’m now writing code like an engineer, not a student.
+- I no longer try to memorize code. I strategize solutions, research modular code snippets, and build end-to-end logic that solves real problems. I’m now writing code like an engineer, not a student.  
+- How to use tkinter to build real GUIs  
+- Handling state between multiple windows  
+- Validating user input and showing error messages  
+- Organizing Python code into clear functions and flows  
+- This project took many hours of trial and error, and I'm proud to have completed it as my first GUI tool. It's not perfect but it works, and I understand every part of it.  
+
+[See my 2nd project](https://github.com/tnauckunas/dev-grind-vault/tree/59e75041e927f123cd61603b37532ad453207698/python/bootcamp-100-projects/project-2-uk-income-tax-cli)
 
 </details>
 
