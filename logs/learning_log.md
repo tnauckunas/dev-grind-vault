@@ -32,6 +32,8 @@
 
 </details>
 
+---
+
 <details>  
 
 <summary> Archive: May 19, 2025</summary> 
@@ -41,4 +43,6 @@
 - I no longer try to memorize code. I strategize solutions, research modular code snippets, and build end-to-end logic that solves real problems. I’m now writing code like an engineer, not a student.
 
 </details>
+
+---
 
