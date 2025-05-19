@@ -34,3 +34,14 @@ This is a beginner-friendly Python desktop GUI application built using **Tkinter
 This project was inspired by the official [UK Government PAYE take-home pay calculator](https://www.tax.service.gov.uk/estimate-paye-take-home-pay/your-pay).
 
 While this tool uses simplified logic and doesn’t yet replicate official tax bands, it serves as a beginner-level GUI prototype for similar functionality.
+
+---
+
+## Future Plans  
+This project intentionally uses simplified logic and does not implement actual UK tax band rules yet. Future improvements include:
+
+- Rewrite UI using classes instead of function-based procedural flow  
+- Implement real UK tax code logic (bands, thresholds, allowances)  
+- Refactor code into modules (GUI, logic, utils)  
+- Add .env or config file support for constants  
+- Add charts (matplotlib) to visualize tax breakdown  
