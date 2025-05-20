@@ -29,6 +29,15 @@ Every folder here is either a study series, a deep dive into a topic, or a stack
 
 ---
 
+This repo is part of my [**Public Project Roadmap**](https://github.com/tnauckunas/public-roadmap) a long-term dev plan to transition into IT, DevOps, and cybersecurity.
+
+Use the roadmap to view:
+- Monthly repo progression
+- Strategic goals (CI/CD, scraping, automation)
+- Technical areas I’m targeting across 2025
+
+---
+
 ## Live Study Tracks
 
 ### Python Bootcamp (Udemy)
